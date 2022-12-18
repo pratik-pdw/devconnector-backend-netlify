@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pratikpdw:mGKTE6h2vdoyloMO@devcluster.uutbq.mongodb.net/devconnectorapp?retryWrites=true&w=majority",
+  "jwtSecret": "ilovejavascript",
+  "githubClientId": "528e2ff3eb7893405838",
+  "githubToken": "4dd8f47e567a32355630bf4b6676153dd41f63bc"
+}
